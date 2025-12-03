@@ -4,8 +4,7 @@ Hệ thống quản lý phòng khám tư nhân với React frontend và Node.js 
 
 ## Về hệ thống
 
-Đây là hệ thống quản lý cho **phòng khám tư nhân**. Tất cả các dịch vụ đều được thanh toán trực tiếp.
-
+Đây là hệ thống quản lý cho **phòng khám tư nhân**
 ## Hướng dẫn cài đặt
 
 ### Bước 1: Clone repository
