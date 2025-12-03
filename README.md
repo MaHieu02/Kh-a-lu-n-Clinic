@@ -17,10 +17,8 @@ cd ProjectClinic
 ### Bước 2: Cài đặt MongoDB
 
 #### Windows:
-1. Tải MongoDB Community Server từ: https://www.mongodb.com/try/download/community
-2. Cài đặt và chạy MongoDB service
-3. Mặc định MongoDB sẽ chạy tại `mongodb://localhost:27017`
-
+1. Tải và cài đặt MongoDB Community Server từ: https://www.mongodb.com/try/download/community
+2. Tải và cài đặt Node.jS tại: https://nodejs.org/fr/download
 ### Bước 3: Cấu hình Backend
 
 1. Di chuyển vào thư mục backend:
