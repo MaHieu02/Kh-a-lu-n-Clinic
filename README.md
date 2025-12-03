@@ -10,8 +10,8 @@ Hệ thống quản lý phòng khám tư nhân với React frontend và Node.js 
 ### Bước 1: Clone repository
 
 ```bash
-git clone https://github.com/MaHieu02/Project-Clinic.git
-cd clinic
+git clone https://github.com/MaHieu02/ProjectClinic.git
+cd ProjectClinic
 ```
 
 ### Bước 2: Cài đặt MongoDB
