@@ -10,7 +10,7 @@ Hệ thống quản lý phòng khám tư nhân với React frontend và Node.js 
 ### Bước 1: Clone repository
 
 ```bash
-git clone https://github.com/MaHieu02/Kh-a-lu-n-Clinic.git
+git clone https://github.com/MaHieu02/Project-Clinic.git
 cd clinic
 ```
 
